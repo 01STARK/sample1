@@ -3,7 +3,7 @@ from tkinter import filedialog
 from tkinter import font
 
 root = Tk()
-root.title('Text Editor')
+root.title('notpad')
 #root.iconbitmap('C:\Users\rishiraj\Desktop\icon.ico')
 root.geometry("900x450")
 
